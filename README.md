@@ -8,8 +8,8 @@ For security reasons, the data on commits has been removed. The project was uplo
 Used Unity 3d
 C#
 
-Commit values : 263
-In
+Commit values : 263 
+
 ## Getting Started
 You can play this game by following the link below
 https://play.google.com/store/apps/details?id=com.CyberCrasher
